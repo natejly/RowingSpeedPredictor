@@ -7,7 +7,16 @@ To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
-# Rowing Speed Prediction from Per-Stroke Telemetry Data  
+
+To run the Jupyter Notebook, make sure the data files are in the same directory and press **Run All**.
+
+**Default parameters of:**
+```python
+use_previous_speed = False 
+min_speed = 5
+```
+**Can be changed to match results below**
+
 **Author:** Nate Ly  
 **Date:** May 4, 2025  
 
