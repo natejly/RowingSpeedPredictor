@@ -1,3 +1,1 @@
-# xBoat
-# RowingSpeedPredictor
 # RowingSpeedPredictor
