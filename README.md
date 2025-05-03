@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Introduction
 
-In competitive rowing, the goal is to travel a distance of 2000 meters as fast as possible. The fastest boat, called an Eight, has eight rowers and a coxswain. Boat speed comes from a combination of power output from the athletes and technical cohesion. While maximizing power output relies on training the human body to its physiological limits, technical cohesion depends on neuromuscular synchronization and practice. Although sports science has made great strides in optimizing human physiology through training and nutrition, rowing technique remains the bottleneck of boat speed.
+In competitive rowing, the goal is to travel a distance of 2000 meters as fast as possible. The fastest boat, called an Eight, has eight rowers and a coxswain. Boat speed comes from a combination of power output from the athletes and technical cohesion. While maximizing power output relies on training the human body to its physiological limits, technical cohesion depends on neuromuscular synchronization and practice. Although sports science has made great strides in optimizing human physiology through training and nutrition, rowing technique remains the a bottleneck of boat speed.
 
 Traditional fluid-dynamics models can predict boat motion, but they require extreme care in specifying boundary conditions and are computationally expensive. Moreover, they cannot capture human variability due to fatigue or subtle technical differences. A data-driven approach “prices in” these unmodeled factors, offering not only a cheaper but potentially more practical and insightful method.
 
