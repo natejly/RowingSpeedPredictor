@@ -146,10 +146,10 @@ Restricting strokes to moderate effort or above reduces noise further while stil
 | Metric                   | Value  |
 |--------------------------|-------:|
 | Number of data points    | 1057   |
-| MSE                      | 0.0020 |
-| R² score                 | 0.7077 |
+| MSE                      | 0.0017 |
+| R² score                 | 0.7511 |
 | MAPE                     | 0.68%  |
-| Split error over 500 m   | 0.66 s |
+| Split error over 500 m   | 0.65 s |
 
 ![Predicted vs True Speed (≥ 5 m/s)](output3.png)  
 *Figure: Predicted vs True Speed for strokes above 5 m/s*
